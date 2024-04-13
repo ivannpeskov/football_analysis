@@ -1,0 +1,16 @@
+/.DS_Store
+/.idea
+/.venv
+/EPL spreadsheet.csv
+/Transfers.csv
+/best_performers.csv
+/cause_analysis.ipynb
+/clusterisation.ipynb
+/df_for_ml.csv
+/football_api.ipynb
+/jobs.json
+/main.py
+/shots_analysis.ipynb
+/test.csv
+/tr_.csv
+/transfers_analysis.ipynb
